@@ -1,0 +1,10 @@
+## set working dir
+setwd("Programming/Exploratory/Project 1/")
+source("plot1.R")
+plot1()
+source("plot2.R")
+plot2()
+source("plot3.R")
+plot3()
+source("plot4.R")
+plot4()
